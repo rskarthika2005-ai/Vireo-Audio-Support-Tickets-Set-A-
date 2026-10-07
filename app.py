@@ -1,13 +1,3 @@
-# app.py - runs the whole pipeline
-#
-#   preprocess -> analyze tickets -> validate -> weekly digest -> leaderboard
-#
-# usage:
-#   python app.py                run everything (asks before sending all tickets to the model)
-#   python app.py --limit 50     only analyse 50 tickets (cheap test run)
-#   python app.py --yes          do not ask before a full run
-#   python app.py --no-llm       no model calls, use only answers already saved in the cache
-
 import argparse
 import os
 import sys
@@ -63,7 +53,6 @@ def main():
     if out.empty:
         print("\nno analysed tickets, so the digest and the AI validation are skipped.")
     else:
-        # read the csv back, the same way each module does when run on its own
         analyzed = pd.read_csv(config.ANALYZED_TICKETS_FILE)
 
     step(3, "validate (data checks, and the AI check if labels exist)")
