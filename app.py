@@ -13,7 +13,6 @@ from modules import analyze_ticket, leaderboard, preprocess, validation, weekly_
 def step(number, title):
     print(f"\n{'=' * 60}\nSTEP {number}: {title}\n{'=' * 60}")
 
-
 def check_api_settings():
     problems = []
     if not config.API_KEY:
