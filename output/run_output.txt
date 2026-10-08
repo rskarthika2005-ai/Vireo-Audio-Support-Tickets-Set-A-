@@ -1,0 +1,128 @@
+
+============================================================
+STEP 1: preprocess (clean the data)
+============================================================
+  rows_in_file: 12528
+  unique_ticket_ids: 11875
+  rows_after_dedupe: 11875
+  legacy_resolved_at_shifted: 2937
+  csat_zeros_made_blank: 1750
+  tickets_without_agent_match: 0
+  tickets_without_order_match: 0
+  negative_handle_time_rows: 0
+  negative_response_time_rows: 0
+
+============================================================
+STEP 2: analyze tickets with the model
+============================================================
+tickets selected: 100 | already in cache: 100 | to send: 0
+
+rows saved: 100  ->  C:\Users\Senth\OneDrive\Desktop\vireo-support-ai\output\analyzed_tickets.csv
+parse failures: 0
+tokens used: in 42,483, out 7,694
+
+AI categories:
+category
+Returns & Refunds      20
+Delivery & Shipping    12
+Billing & Payments     12
+Audio Quality           9
+Charging & Battery      9
+Connectivity            9
+Product Enquiry         8
+Order Cancellation      7
+App & Firmware          4
+Address Change          4
+Account & Login         3
+Warranty & Repair       3
+
+bot said Other, AI found a category: 14
+
+============================================================
+STEP 3: validate (data checks, and the AI check if labels exist)
+============================================================
+
+labels read: 60 tickets, 0 with a wrong field -> C:\Users\Senth\OneDrive\Desktop\vireo-support-ai\output\validation_mismatches.csv
+
+--- validation report ---
+[data] duplicate ticket_id rows in raw file: 653 of 12528 (5.2%)
+[data] missing ticket_id: 0 of 11875 (0.0%)
+[data] created_at missing or not readable: 0 of 11875 (0.0%)
+[data] customer_id missing: 0 of 11875 (0.0%)
+[data] customer_message missing: 0 of 11875 (0.0%)
+[data] finished ticket without agent_notes: 0 of 11266 (0.0%)
+[data] finished ticket without resolved_at: 0 of 11266 (0.0%)
+[data] finished ticket without agent_id: 0 of 11266 (0.0%)
+[data] agent_id not in agents.csv: 0 of 11875 (0.0%)
+[data] first response before creation: 0 of 11875 (0.0%)
+[data] resolved before first response: 0 of 11875 (0.0%)
+[data] resolved before creation: 0 of 11875 (0.0%)
+[data] status not resolved/closed/open/pending: 0 of 11875 (0.0%)
+[data] csat outside 1 to 5: 0 of 11875 (0.0%)
+[ai] parse failures (all analysed tickets): 0 of 100 (0.0%), 95% range 0.0 to 3.7%
+[ai] category wrong: 0 of 0
+[ai] sentiment wrong: 0 of 0
+[ai] priority wrong: 0 of 0
+[ai] root_cause wrong: 0 of 0
+[ai] resolution wrong: 0 of 0
+[ai] already_contacted_before wrong: 0 of 0
+[ai] at least one field wrong (tickets with all 6 marked): 0 of 0
+saved -> C:\Users\Senth\OneDrive\Desktop\vireo-support-ai\output\validation_report.csv
+
+============================================================
+STEP 4: weekly digest
+============================================================
+weekly digest: 54 weeks -> C:\Users\Senth\OneDrive\Desktop\vireo-support-ai\output\weekly_digest.csv
+
+=== digest for the week starting 2026-06-08 (1 tickets) ===
+negative sentiment: 100.0%
+1. Delivery & Shipping: 1 tickets (100.0%), +1 vs last week
+     e.g. "team, order not delivered, tracking not updating 3 weeks back se pls reply"
+customers who say they contacted us before: email 0.0%
+product spikes: none
+
+============================================================
+STEP 5: agent leaderboard
+============================================================
+leaderboard: 3074 agent-weeks, 44 agents -> C:\Users\Senth\OneDrive\Desktop\vireo-support-ai\output\agent_leaderboard.csv
+
+latest full week: 2026-06-22 (top 3 in each team)
+Billing
+   1 Diya Singh - 10 closed, breach 0.0 %, repeat 20.0 %, csat 3.6
+   2 Manpreet Mukherjee - 6 closed, breach 16.7 %, repeat 33.3 %, csat 3.0
+   3 Diya Malhotra - 5 closed, breach 0.0 %, repeat 40.0 %, csat 2.0
+Chat Frontline
+   1 Om Varghese - 9 closed, breach 0.0 %, repeat 22.2 %, csat 3.5
+   2 Shreya Kumar - 6 closed, breach 16.7 %, repeat 50.0 %, csat 3.8
+   3 Zoya Srivastava - 4 closed, breach 0.0 %, repeat 25.0 %, csat 4.0
+Email Frontline
+   1 Pooja Dhillon - 11 closed, breach 9.1 %, repeat 18.2 %, csat 3.0
+   2 Ayaan Pawar - 8 closed, breach 12.5 %, repeat 25.0 %, csat 3.0
+   2 Kavya D'Souza - 8 closed, breach 0.0 %, repeat 0.0 %, csat 4.33
+Logistics
+   1 Aishwarya Agarwal - 10 closed, breach 10.0 %, repeat 40.0 %, csat 3.25
+   2 Tarun Pereira - 9 closed, breach 11.1 %, repeat 55.6 %, csat 2.67
+   3 Geeta Rathore - 8 closed, breach 0.0 %, repeat 50.0 %, csat 2.5
+Returns Desk
+   1 Vivaan Sethi - 11 closed, breach 0.0 %, repeat 45.5 %, csat 3.33
+   2 Saanvi Saxena - 7 closed, breach 42.9 %, repeat 42.9 %, csat 3.0
+   3 Pooja Patil - 5 closed, breach 0.0 %, repeat 60.0 %, csat 2.67
+Voice Frontline
+   1 Farah George - 4 closed, breach 25.0 %, repeat 75.0 %, csat 3.0
+   2 Mohammed Kaur - 3 closed, breach 0.0 %, repeat 66.7 %, csat 5.0
+   2 Riya Siddiqui - 3 closed, breach 33.3 %, repeat 66.7 %, csat 3.0
+
+tier 2 (not ranked):
+   Aishwarya Kaur - 112 closed, median 4.3 days to resolve
+   Deepak Mathew - 92 closed, median 4.2 days to resolve
+   Meera Joshi - 175 closed, median 5.2 days to resolve
+   Rahul Gupta - 91 closed, median 4.8 days to resolve
+   Sai Sharma - 158 closed, median 3.9 days to resolve
+   Vivaan Kulkarni - 91 closed, median 6.1 days to resolve
+
+============================================================
+DONE in 3 seconds. Output files:
+  analyzed_tickets.csv: 100 rows
+  weekly_digest.csv: 93 rows
+  agent_leaderboard.csv: 3074 rows
+  validation_report.csv: 22 rows
