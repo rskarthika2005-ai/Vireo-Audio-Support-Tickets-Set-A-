@@ -1,7 +1,5 @@
 import pandas as pd
 from source import config
-
-
 def load_files():
     tickets = pd.read_csv(config.TICKETS_FILE)
     agents = pd.read_csv(config.AGENTS_FILE)
