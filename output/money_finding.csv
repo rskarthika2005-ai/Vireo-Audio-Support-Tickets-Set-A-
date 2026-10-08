@@ -1,0 +1,9 @@
+﻿section,item,count,rate_pct,cost_period_inr,cost_per_quarter_inr,note
+lever,repeat contacts,3236.0,27.3,868880.0,145211.0,same customer + product within 30 days of the last resolution (a proxy)
+lever,first-response breach credits,992.0,8.8,347200.0,58026.0,Rs 350 per breach
+lever,team transfers,1169.0,,356545.0,59587.0,Rs 305 per transfer
+lever,refund and replacement on the same ticket,4.0,,,,too few tickets to build anything for
+headline,"Cut repeat contacts from 27.3% to 23.1% of tickets, worth about Rs 22,087 a quarter",,23.1,,22087.0,"target = repeat rate of Voice Frontline, the lowest of the teams with 500+ tickets"
+sensitivity,1 point lower repeat rate,,,,5329.0,tickets per quarter about 1985
+sensitivity,2 point lower repeat rate,,,,10657.0,tickets per quarter about 1985
+sensitivity,5 point lower repeat rate,,,,26644.0,tickets per quarter about 1985
