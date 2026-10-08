@@ -1,0 +1,23 @@
+﻿section,item,checked,issues,rate_pct,range_low_pct,range_high_pct,note
+data,duplicate ticket_id rows in raw file,12528,653,5.2,,,"legacy re-import, kept the helpdesk row"
+data,missing ticket_id,11875,0,0.0,,,
+data,created_at missing or not readable,11875,0,0.0,,,
+data,customer_id missing,11875,0,0.0,,,
+data,customer_message missing,11875,0,0.0,,,
+data,finished ticket without agent_notes,11266,0,0.0,,,
+data,finished ticket without resolved_at,11266,0,0.0,,,
+data,finished ticket without agent_id,11266,0,0.0,,,
+data,agent_id not in agents.csv,11875,0,0.0,,,
+data,first response before creation,11875,0,0.0,,,
+data,resolved before first response,11875,0,0.0,,,should be 0 after the utc fix
+data,resolved before creation,11875,0,0.0,,,
+data,status not resolved/closed/open/pending,11875,0,0.0,,,
+data,csat outside 1 to 5,11875,0,0.0,,,
+ai,parse failures (all analysed tickets),100,0,0.0,0.0,3.7,answer rejected twice
+ai,category wrong,0,0,,,,
+ai,sentiment wrong,0,0,,,,
+ai,priority wrong,0,0,,,,
+ai,root_cause wrong,0,0,,,,
+ai,resolution wrong,0,0,,,,
+ai,already_contacted_before wrong,0,0,,,,
+ai,at least one field wrong (tickets with all 6 marked),0,0,,,,
