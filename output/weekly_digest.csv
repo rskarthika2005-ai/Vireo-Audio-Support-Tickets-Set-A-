@@ -1,0 +1,94 @@
+﻿week_start,partial_week,week_tickets,negative_pct,spike_skus,contacted_before_pct_chat,contacted_before_pct_email,contacted_before_pct_voice,contacted_before_pct_social,rank,category,tickets,prev_week_tickets,change,share_of_week_pct,example_message
+2024-12-30,True,1,100.0,,0.0,,,,1,Product Enquiry,1,,,100.0,honsetly regretting this purchase. tis is regardding my orbit. before i buy - will this talk to a 2019 samsung. escalate this to someone senior.
+2025-02-10,False,1,100.0,,,,0.0,,1,Order Cancellation,1,0.0,1.0,100.0,"[IVR transcript] Hi Vireo support, I bought the strata 3 on 08/02. Cancel order [order]. I tried cancel button, greyed out. Not acceptable at this ..."
+2025-02-17,False,2,100.0,,,0.0,,100.0,1,Returns & Refunds,1,0.0,1.0,50.0,"Dear Sir/Madam, I am writing with reference to my order of my Orbit ([order]) placed on 26/01. Still waiting for my refund. I hvae emailed twice. I..."
+2025-02-17,False,2,100.0,,,0.0,,100.0,2,Connectivity,1,0.0,1.0,50.0,bhai keeps losing my phone if i walk to the other room help
+2025-03-31,False,4,100.0,,0.0,0.0,,,1,Audio Quality,1,0.0,1.0,25.0,hello ji there is a frying sound in the background of every song the airlite buds kindly do the needful
+2025-03-31,False,4,100.0,,0.0,0.0,,,2,Delivery & Shipping,1,0.0,1.0,25.0,"Dear Sir/Madam, I bought pulse 1 on March 27. I haven't received my order. I called the courier. What do I do now?"
+2025-03-31,False,4,100.0,,0.0,0.0,,,3,Charging & Battery,1,0.0,1.0,25.0,"Hi Vireo support, I bought Arc neckband on 15-02-2025. Right side works perfectly, left one just does not wake up. I removed and reinserted it 10 t..."
+2025-03-31,False,4,100.0,,0.0,0.0,,,4,Billing & Payments,1,0.0,1.0,25.0,"card charged two times, pelase resolve asap"
+2025-04-21,False,1,0.0,,,,,0.0,1,Product Enquiry,1,0.0,1.0,100.0,hi will this survive a shower my orbit hello??
+2025-04-28,False,1,100.0,,,0.0,,,1,Product Enquiry,1,1.0,0.0,100.0,Really frustrating. Ordered Nexa 2 a month ago. is Nexa 2 compatible with my TV. Fix ths or I am posting on twitter.
+2025-05-05,False,1,100.0,,0.0,,,,1,Returns & Refunds,1,0.0,1.0,100.0,"Hello, Order [order] (my Strata 3 headphones). Refund was promised 14 days ago and nothing. I checked bank. I have been a loyal customer and this i..."
+2025-05-12,False,1,0.0,,0.0,,,,1,Address Change,1,0.0,1.0,100.0,hi i moved houses yesterday and the oredr is going to the old flat the strata 3 [order] pls reply
+2025-05-19,False,2,50.0,,50.0,,,,1,Address Change,1,1.0,0.0,50.0,Product: the strata 3 Order: [order] Purchased: 14 May Issue: update my shipping address Tried: tired editing in app Expected: replacement
+2025-05-19,False,2,50.0,,50.0,,,,2,Audio Quality,1,0.0,1.0,50.0,"Dear Sir/Madam, I am writing witth reference to my order of Pulse earbuds ([order]) placed on Mach 01. Left side has no audio at all. I have reset ..."
+2025-06-02,False,2,100.0,,,0.0,,,1,Audio Quality,1,0.0,1.0,50.0,helo it goes silent for a second every few minutes & comes back orbit mini ??
+2025-06-02,False,2,100.0,,,0.0,,,2,Returns & Refunds,1,0.0,1.0,50.0,my order has not been delivered yet. [order]. i want my money back
+2025-06-09,False,2,100.0,,,100.0,100.0,,1,Audio Quality,1,1.0,0.0,50.0,"[IVR transcript] team, i already raised this once and the ticket was closed. no sound from the right earbud pulse earbuds urgent"
+2025-06-09,False,2,100.0,,,100.0,100.0,,2,App & Firmware,1,0.0,1.0,50.0,yet again. orered my arc in april. the app closes itself the moment i tap on my device. i reinstalled the app. nothinng changed. need this sorted t...
+2025-06-16,False,2,100.0,,0.0,0.0,,,1,App & Firmware,1,1.0,0.0,50.0,"Hey, This is regarding my Strata 3 headphones. Since the last update the app just sohws a white screen. I cleared cache. This is very disappointing..."
+2025-06-16,False,2,100.0,,0.0,0.0,,,2,Charging & Battery,1,0.0,1.0,50.0,"To the Vireo Customer Care Team, I am writing witth reference to my order of the AirLite buds placed on 02-06-2025. Left earbud shows 0% and never ..."
+2025-06-23,False,1,100.0,,,,100.0,,1,Warranty & Repair,1,0.0,1.0,100.0,[IVR transcript] This is very disappointing. Ordered my Nexa 2 watch around Diwali. waarranty claim pending for 15 days. I already called service c...
+2025-06-30,False,2,100.0,,0.0,0.0,,,1,Returns & Refunds,1,0.0,1.0,50.0,hey nobody came for the pickup orbit mini ??
+2025-06-30,False,2,100.0,,0.0,0.0,,,2,Billing & Payments,1,0.0,1.0,50.0,"Hello, Got the Pulse buds from Amazon a month ago. Promo code shows invalid. I tried in caps. Nothing changed. I wnat my money back. Thanks &"
+2025-07-07,False,1,100.0,,100.0,,,,1,Connectivity,1,0.0,1.0,100.0,"Dear Sir/Madam, Your agent said it was fixed. It is not. I am writing with reference to my order of the neckband ([order]) placed on 16/04. Bluetoo..."
+2025-07-14,False,1,100.0,,,0.0,,,1,Delivery & Shipping,1,0.0,1.0,100.0,"Dear Sir/Madam, I am writing with reference to my order of Nexa 2 ([order]) placed on 28-05-2025. Tracking has said out for delivery for a week now..."
+2025-07-21,False,2,50.0,,100.0,,0.0,,1,Address Change,1,0.0,1.0,50.0,HELO ENTERED WRONG PINCODE MY PULSE HELLO??
+2025-07-21,False,2,50.0,,100.0,,0.0,,2,Delivery & Shipping,1,1.0,0.0,50.0,"Product: your charger Order: [order] Purchased: 15/07 Issue: the app said pickup today, that was on 15/07 Tried: rescheduled pickup twice Expected:..."
+2025-07-28,False,1,100.0,,0.0,,,,1,Returns & Refunds,1,0.0,1.0,100.0,hey you picked up the item 19 days ago and my money hasn't come back my strata 3 headphones [order]
+2025-08-04,False,1,100.0,,,,,0.0,1,Billing & Payments,1,0.0,1.0,100.0,"to the vireo customer care team, i am writing with reference to my order of pulse2 ([order]) placed on 25-07-2025. coupon code not working. i have ..."
+2025-08-11,False,1,0.0,,0.0,,,,1,Order Cancellation,1,0.0,1.0,100.0,"hi there, i bought orbit mini on 09/08. change of mind, please stop the shipment. i tried cancel button, greyed out. nothing changed. please help. ..."
+2025-08-25,False,2,100.0,,0.0,0.0,,,1,Returns & Refunds,1,0.0,1.0,50.0,"the app said pickup today, that was on 09/08"
+2025-08-25,False,2,100.0,,0.0,0.0,,,2,Delivery & Shipping,1,0.0,1.0,50.0,I ordered my Pulse 2 and got something else how do i get tis fixed?
+2025-09-01,False,1,100.0,,,100.0,,,1,Warranty & Repair,1,0.0,1.0,100.0,"Hey, Third time now. Order [order] (my Strata 3 headphones). I sent the unit in 4 days ago and have hard nothing. I called service centre. Notihng ..."
+2025-09-15,False,2,100.0,,0.0,,,0.0,1,Audio Quality,1,0.0,1.0,50.0,hello mic not working on calls hello??
+2025-09-15,False,2,100.0,,0.0,,,0.0,2,Billing & Payments,1,0.0,1.0,50.0,discount was not applied at checkout. [order]
+2025-09-22,False,2,50.0,,0.0,,0.0,,1,App & Firmware,1,0.0,1.0,50.0,[IVR transcript] hi sir firmware update stuck for 2 hours itna paisa diya hai pulse earbuds kinddly do the needful
+2025-09-22,False,2,50.0,,0.0,,0.0,,2,Product Enquiry,1,0.0,1.0,50.0,"This is regarding Nexa Fit. Before I buy - will this talk to a 2019 Samsung. What do I do now? Thanks,"
+2025-10-06,False,1,0.0,,0.0,,,,1,Billing & Payments,1,0.0,1.0,100.0,Ordered the Pulse 2 earbuds 2 weeks ago. Need GST invoice for my order. Please advise. Thanks
+2025-10-13,False,3,100.0,,50.0,,,0.0,1,Returns & Refunds,2,0.0,2.0,66.7,hi there's a dent on the case straight out of the box hello??
+2025-10-13,False,3,100.0,,50.0,,,0.0,2,Order Cancellation,1,0.0,1.0,33.3,"To the Vireo Customer Care Team, I am writing with reference to my order of Nexa Fit ([order]) placed on October 06. Change of mind, please stop th..."
+2025-10-20,False,5,100.0,,33.3,0.0,0.0,,1,Charging & Battery,2,0.0,2.0,40.0,Product: Pulse 2 Purchased: 02/08 Issue: no light comes on the case when I plug it in Tried: tried 3 different cables Expected: refund
+2025-10-20,False,5,100.0,,33.3,0.0,0.0,,2,Returns & Refunds,1,2.0,-1.0,20.0,"Hi team, Bought my Pulse around October 08 from vireo.in. Refund was promised 12 days ago and nothing. I emailed twice. Nothing changed. Honestly r..."
+2025-10-20,False,5,100.0,,33.3,0.0,0.0,,3,Billing & Payments,1,0.0,1.0,20.0,"[IVR transcript] Not what I expected frrom Vireo. THIS IS REGARDING TEH FIT BAND. paid via UPI, amount deducted, no order confirmation. I already c..."
+2025-10-20,False,5,100.0,,33.3,0.0,0.0,,4,Connectivity,1,0.0,1.0,20.0,CANNOT PAIR NEXA FIT WITH MY LAPTOP [order] PLEASE CALL ME ON MY REGISTERED NUMBER
+2025-10-27,False,3,66.7,,,33.3,,,1,Order Cancellation,2,0.0,2.0,66.7,"To the Vireo Customer Care Team, I am writing with reference to my order of Pulse2 placed on 25/10. I moved houses yesterday and the order is going..."
+2025-10-27,False,3,66.7,,,33.3,,,2,Returns & Refunds,1,1.0,0.0,33.3,Not what I expected from Vireo. Your agent said it was fixed. It is not. I bought the Nexa 2 on 22/09. nobody came for the pickup. I already called...
+2025-11-03,False,1,100.0,,,,,100.0,1,Audio Quality,1,0.0,1.0,100.0,"hello vireo, fourth time writing about the same thing. i bought my pulse 2 on 22-08-2025. distorted audio at high volume. i tried different apps. p..."
+2025-11-10,False,3,33.3,,,0.0,,,1,Connectivity,2,0.0,2.0,66.7,bought nexa 2 around 15-10-2025 from vireo.in. my phone just doesn't see it in the list anymore. waiting for your reply.
+2025-11-10,False,3,33.3,,,0.0,,,2,Billing & Payments,1,0.0,1.0,33.3,pls share invoice with GST number. waiting for ur reply
+2025-11-17,False,1,100.0,,0.0,,,,1,Returns & Refunds,1,0.0,1.0,100.0,"hi team, bought teh airlite buds around 21-11-2025 from vireo.in. the parcel looked like it was kicked here from the warehouse, and the unit has a ..."
+2025-11-24,False,1,100.0,,100.0,,,,1,Account & Login,1,0.0,1.0,100.0,"Dear Sir/Madam, I am writing w/ reference to my order of Orbit speaker placed on October 10. The login code never arrives, tried 6 times. I have tr..."
+2025-12-01,False,3,100.0,,0.0,,0.0,,1,Charging & Battery,1,0.0,1.0,33.3,"Hi, Bought my Pulse around November 08 from vireo.in. The left one is dead every morning even though it was in the case all night. I tried another ..."
+2025-12-01,False,3,100.0,,0.0,,0.0,,2,Delivery & Shipping,1,0.0,1.0,33.3,"honestly regretting this purchase. i bought airlite earbuds on 25-11-2025. order not delivered, tracking not updating. i alrady checked the trackin..."
+2025-12-01,False,3,100.0,,0.0,,0.0,,3,Billing & Payments,1,0.0,1.0,33.3,"DEAR SIR/MADAM, I AM WRITING WITH REFERENCE TO MY ORDER OF PULSE 2 ([order]) PLACED ON 21-11-2025. My bank says Rs 1799 went to you but your site s..."
+2025-12-08,False,2,50.0,,0.0,100.0,,,1,Address Change,1,0.0,1.0,50.0,product: my pulse 2 order: [order] purchased: november 28 issue: update my shipping address tried: tried editing in app expected: callback
+2025-12-08,False,2,50.0,,0.0,100.0,,,2,Returns & Refunds,1,0.0,1.0,50.0,this is v disappointing. this is regarding my strata 3 headphones. i have been sitting at home for 3 dayys waiting for your courier. i already call...
+2026-01-05,False,3,33.3,,0.0,0.0,,,1,Product Enquiry,1,0.0,1.0,33.3,"Hi team, Ordered Pulse2 a month ago. Before I buy - will this talk to a 2019 Samsung. Please advise. Regards Gurpreet Mathew"
+2026-01-05,False,3,33.3,,0.0,0.0,,,2,Returns & Refunds,1,0.0,1.0,33.3,"Hello, Got airlite earbuds from vireo.in around Diwali. Got a different colour than ordered. Please help. Please revert, Prriya Mathew"
+2026-01-05,False,3,33.3,,0.0,0.0,,,3,Connectivity,1,0.0,1.0,33.3,"the pairing light blinks but nothing ever shows up on my Realme, can someone fix this?"
+2026-01-12,False,3,66.7,,0.0,0.0,0.0,,1,Audio Quality,1,0.0,1.0,33.3,[IVR transcript] hii works for music but useless for meetings pulse 2
+2026-01-12,False,3,66.7,,0.0,0.0,0.0,,2,Delivery & Shipping,1,0.0,1.0,33.3,hey i haven't received my order kindly do the needful
+2026-01-12,False,3,66.7,,0.0,0.0,0.0,,3,Returns & Refunds,1,1.0,0.0,33.3,got a different colour than ordered
+2026-01-19,False,1,100.0,,,100.0,,,1,Audio Quality,1,1.0,0.0,100.0,"hi vireo support, fourth time writing about the same thing. this is regarding pulse earbuds. there is a frying sound in the background of every son..."
+2026-01-26,False,1,100.0,,0.0,,,,1,Delivery & Shipping,1,0.0,1.0,100.0,not what i expected from vireo. this is regarding orbit mini. it has been 17 days & i have nothing in hand. i already checked the tracking page dai...
+2026-02-02,False,2,100.0,,,0.0,0.0,,1,Order Cancellation,1,0.0,1.0,50.0,"Hello, Order [order] (orbit mini). Watn to cancel my order. I tried cancel button, greyed out. I want my money back. Thanks,"
+2026-02-02,False,2,100.0,,,0.0,0.0,,2,Delivery & Shipping,1,1.0,0.0,50.0,"hey orrder not delivered, tracking not updating pulse 2 buds [order] urgent"
+2026-02-09,False,5,80.0,,0.0,100.0,,33.3,1,Charging & Battery,2,0.0,2.0,40.0,"Hello Vireo, Third time now. I bought the AirLite buds on 12/09. Battery draining even when not in use. I updated the app. Waiting for your reply."
+2026-02-09,False,5,80.0,,0.0,100.0,,33.3,2,Product Enquiry,1,0.0,1.0,20.0,hi is replacement case compatible with my tv replacement case kindly do the needful
+2026-02-09,False,5,80.0,,0.0,100.0,,33.3,3,Billing & Payments,1,0.0,1.0,20.0,the page failed after i paid & now nothing shos in my account
+2026-02-09,False,5,80.0,,0.0,100.0,,33.3,4,Delivery & Shipping,1,1.0,0.0,20.0,"very poor quality. this is regarding orbit mini. paid on 03-02-2026, still waiting for something to show up. i already called the courier. this is ..."
+2026-02-16,False,1,100.0,,,,0.0,,1,Returns & Refunds,1,0.0,1.0,100.0,[IVR transcript] Honestly regretting this purchase. Got pulse 1 from vireo.in in February. opened the parcel and it is a completely different thing...
+2026-02-23,False,2,50.0,,0.0,,,,1,Warranty & Repair,1,0.0,1.0,50.0,"hi there, got nexa 2 from vireo.in around diwali. the strap is tearing. i tried to fix pin. waiting for your reply. thanks &"
+2026-02-23,False,2,50.0,,0.0,,,,2,Returns & Refunds,1,1.0,0.0,50.0,not accepable at this price. ordered orbit mini recently. the return was accepted but the amount is nowhere in my account. i already checked bank. ...
+2026-03-02,False,1,100.0,,,0.0,,,1,Billing & Payments,1,0.0,1.0,100.0,"dear sir/madam, i am writing with refereence to my ordder of my pulse 2 ([order]) placed on february 28. the page failed after i paid and now nothi..."
+2026-03-09,False,4,75.0,,0.0,0.0,,,1,Account & Login,1,0.0,1.0,25.0,HEY OTP NOT COMING ON MY NUMBER
+2026-03-09,False,4,75.0,,0.0,0.0,,,2,Product Enquiry,1,0.0,1.0,25.0,"will this survive a shower, [order]"
+2026-03-09,False,4,75.0,,0.0,0.0,,,3,Connectivity,1,0.0,1.0,25.0,I have been a loyal customer and this is how you treat me. This is regarding Pulse earbuds. pairing is not working. I already tried on another phon...
+2026-03-09,False,4,75.0,,0.0,0.0,,,4,Billing & Payments,1,1.0,0.0,25.0,Product: Nexa 2 Order: [order] Purchased: March 10 Issue: the festive offer vanished when I clicked pay Tried: tried in caps Expected: replacement
+2026-03-23,False,3,100.0,,,0.0,,0.0,1,Audio Quality,1,0.0,1.0,33.3,"I hear music in one ear only, other is mute"
+2026-03-23,False,3,100.0,,,0.0,,0.0,2,Connectivity,1,0.0,1.0,33.3,not acceptable at this price. bought the nexa 2 around 25 nov from vireo.in. cannot pair the nexa 2 with my laptop. i already forgot the device and...
+2026-03-23,False,3,100.0,,,0.0,,0.0,3,Returns & Refunds,1,0.0,1.0,33.3,hi sir the reutrn was accepted but the amount is nowhere in my account
+2026-04-06,False,1,100.0,,0.0,,,,1,Connectivity,1,0.0,1.0,100.0,it connects for a second and then vanishes from the device list
+2026-04-13,False,3,100.0,,,0.0,,0.0,1,Charging & Battery,2,0.0,2.0,66.7,"hi, ordered pulse 1 2 weeks ago. dies by lunchtime with light use. waiting for your reply. please revert karan kaur"
+2026-04-13,False,3,100.0,,,0.0,,0.0,2,Billing & Payments,1,0.0,1.0,33.3,the invoice PDF link gives a 404
+2026-04-20,False,2,100.0,,100.0,0.0,,,1,Returns & Refunds,2,0.0,2.0,100.0,Product: Orbit speaker Order: [order] Purchased: 19-04-2026 Issue: refund not received yet Tried: emailed twice Expected: resolution
+2026-04-27,False,1,100.0,,,0.0,,,1,Delivery & Shipping,1,0.0,1.0,100.0,product: 65w charger order: [order] purchased: 24-04-2026 issue: order status stuck on shipped since 24-04-2026 tried: checked w/ neighbours expect...
+2026-05-04,False,1,100.0,,,,0.0,,1,Returns & Refunds,1,0.0,1.0,100.0,[IVR transcript] Got my Pulse 2 from Amazon a month ago. Received the wrong item. I rechecked my order. Nothing changed. Waiting for your reply.
+2026-05-11,False,2,100.0,,0.0,0.0,,,1,Account & Login,1,0.0,1.0,50.0,Product: the Pulse buds Order: [order] Purchased: 17 May Issue: your site keeps saying it sent me a code and my phone disagrees Tried: tried on ano...
+2026-05-11,False,2,100.0,,0.0,0.0,,,2,App & Firmware,1,0.0,1.0,50.0,"Dear team, Got Pulse2 from Amazon a month ago. It's showing a spinning circle for hours. Need this sorted this week."
+2026-05-18,False,1,100.0,,,100.0,,,1,Delivery & Shipping,1,0.0,1.0,100.0,"Dear team, Third time now. This is regarding Pulse 2. Order not delivered, tracking not updating. Can someone fix this? Rgds,"
+2026-06-08,False,1,100.0,,,0.0,,,1,Delivery & Shipping,1,0.0,1.0,100.0,"team, order not delivered, tracking not updating 3 weeks back se pls reply"
+2026-06-22,True,2,50.0,,,0.0,0.0,,1,Order Cancellation,1,0.0,1.0,50.0,"[IVR transcript] my son ordered this without asking, please reverse [order] please call me on my registered number"
+2026-06-22,True,2,50.0,,,0.0,0.0,,2,Product Enquiry,1,0.0,1.0,50.0,before I buy - will this talk to a 2019 Samsung [order] what do i do now?
